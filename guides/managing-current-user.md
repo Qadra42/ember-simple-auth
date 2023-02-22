@@ -76,7 +76,7 @@ export default class CurrentUserService extends Service {
       this.set('user', user);
     }
   }
-});
+}
 
 // app/adapters/user.js
 
